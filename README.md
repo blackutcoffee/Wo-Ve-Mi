@@ -1,6 +1,6 @@
-# 💃🏽 Wo - 🎖 Ve - 🤝🏽 Mi
+#
 
-## A search engine highlighting Women, Veteran and Minority-Owned businesses
+## A Women💃🏽 Wo , Veteran 🎖 Ve and Minority-Owned 🤝🏽 Mi businesses API that fosters job createion, cultural achievements while honoring our veterans. 
 
 ## Built With:
 
@@ -61,4 +61,4 @@
 
 ## I Enjoyed That Our Group Did Our Best To Complete All Graded Portions Before The Deadlines Both Individually And Collectively As A Group. I Really Apprecaite How Others H/elped Out When Some Team Mbrs Got Stuck At Work/School, Had Medical Emergencies, Or Just Needed Help Getting Unstuck With A Particular Project Assignment.  
 
-## Utilizing Primary Resources (MDN, w3Schools), I Learned Mostly About Modals Plus, Client-Side Storage [Cookies], Notwithstanding MVP/SEO. 
+## Utilizing Primary Resources (MDN, w3Schools), I Learned Mostly About Modals (Error-handling) Plus, Client-Side Storage [Cookies], Notwithstanding MVP/SEO. 
